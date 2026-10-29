@@ -1,5 +1,10 @@
 ---
 license: other
+configs:
+- config_name: lucid-trading-deals
+  data_files:
+  - split: data
+    path: datasets/lucid-trading-deals.json
 tags:
   - discount-codes
   - prop-firm
@@ -82,7 +87,7 @@ This repository tracks all historical deals for **Lucid Trading** published on P
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T11:02:09Z (auto, hourly)
+Last synced: 2026-10-29T12:47:39Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
