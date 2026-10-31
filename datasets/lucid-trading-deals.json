@@ -1,393 +1,485 @@
 [
   {
+    "prop_firm": "Lucid Trading",
+    "prop_firm_slug": "lucid-trading",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 13042,
     "title": "30% Off Every Account When DLL Is Switched On",
-    "offer_type": "coupon",
+    "date_published": "2026-10-27",
+    "date_exp": "Limited time",
     "discount_value": "30%",
+    "last_verified": "2026-10-27",
+    "offer_type": "coupon",
     "scope": [
       "All Accounts, Lucidflex, Lucidpro, Luciddaily, Dll On, On-Demand Payouts"
     ],
-    "date_published": "2026-10-27",
-    "date_exp": "Limited time",
-    "last_verified": "2026-10-27",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 12934,
     "title": "Any DLL-On Account at 40% Off - Weigh the Entry Cost Saving",
-    "offer_type": "coupon",
+    "date_published": "2026-10-19",
+    "date_exp": "2026-10-23 (ended)",
     "discount_value": "40%",
+    "last_verified": "2026-10-19",
+    "offer_type": "coupon",
     "scope": [
       "Lucidflex, Lucidpro, Luciddaily, Dll Enabled, On-Demand Payouts, Unlimited Uses"
     ],
-    "date_published": "2026-10-19",
-    "date_exp": "2026-10-23 (ended)",
-    "last_verified": "2026-10-19",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11961,
     "title": "50% Off Challenge Pricing For All Evaluation Models",
-    "offer_type": "coupon",
+    "date_published": "2026-05-18",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-05-18",
+    "offer_type": "coupon",
     "scope": [
       "All Accounts, Luciddirect, Limit 2 Per Trader"
     ],
-    "date_published": "2026-05-18",
-    "date_exp": "Ended",
-    "last_verified": "2026-05-18",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/50-percent-off-all-accounts/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11729,
     "title": "40% Off All Evaluation Purchase Costs",
-    "offer_type": "coupon",
+    "date_published": "2026-03-27",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2026-03-27",
+    "offer_type": "coupon",
     "scope": [
       "Any Evaluation, 5 Additional Uses"
     ],
-    "date_published": "2026-03-27",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-27",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-any-evaluation/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11450,
     "title": "Buy 3 Pro Accounts Get 1 Free Pro Account Reset",
-    "offer_type": "coupon",
+    "date_published": "2026-03-17",
+    "date_exp": "Ended",
     "discount_value": "Buy 3 Get 1",
+    "last_verified": "2026-03-17",
+    "offer_type": "coupon",
     "scope": [
       "Pro Accounts, Limit 5 Per Trader"
     ],
-    "date_published": "2026-03-17",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-17",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-buy-3-pro-accounts-free-reset/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11320,
     "title": "40% Reduction on All Challenge Pricing",
-    "offer_type": "coupon",
+    "date_published": "2026-03-03",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2026-03-03",
+    "offer_type": "coupon",
     "scope": [
       "Any Evaluation"
     ],
-    "date_published": "2026-03-03",
-    "date_exp": "Ended",
-    "last_verified": "2026-03-03",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-evaluations/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11219,
     "title": "50% Off Evaluation Accounts",
-    "offer_type": "coupon",
+    "date_published": "2026-02-19",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2026-02-19",
+    "offer_type": "coupon",
     "scope": [
       "All Evaluation Plans, Limit 2 Per Trader"
     ],
-    "date_published": "2026-02-19",
-    "date_exp": "Ended",
-    "last_verified": "2026-02-19",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-off-evaluations/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10755,
     "title": "40% Discount on Evaluation Account Entry Costs",
-    "offer_type": "coupon",
+    "date_published": "2026-01-25",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2026-01-25",
+    "offer_type": "coupon",
     "scope": [
       "Any Eval, Limit 5 Per Trader"
     ],
-    "date_published": "2026-01-25",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-25",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-evaluation-promo/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10719,
     "title": "LucidBlack Launch: 40% OFF Challenge Pricing from $78",
-    "offer_type": "coupon",
+    "date_published": "2026-01-18",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2026-01-18",
+    "offer_type": "coupon",
     "scope": [
       "Lucidblack Evaluation Accounts"
     ],
-    "date_published": "2026-01-18",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-18",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-lucidblack-launch-40-percent-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10645,
     "title": "Deal: 35% Off 25K-50K Accounts and 30% Off Site-Wide",
-    "offer_type": "coupon",
+    "date_published": "2026-01-05",
+    "date_exp": "Ended",
     "discount_value": "35%",
+    "last_verified": "2026-01-05",
+    "offer_type": "coupon",
     "scope": [
       "All Plans (Tiered Discount)"
     ],
-    "date_published": "2026-01-05",
-    "date_exp": "Ended",
-    "last_verified": "2026-01-05",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-deal-35-off-25k-50k-accounts-and-30-off-site-wide/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10294,
     "title": "20k Member Celebration: 40% OFF + Giveaway",
-    "offer_type": "coupon",
+    "date_published": "2025-12-11",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-12-11",
+    "offer_type": "coupon",
     "scope": [
       "25K And 50K Lucidflex And Pro Models."
     ],
-    "date_published": "2025-12-11",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-11",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-20k-member-celebration-40-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10153,
     "title": "Sale: Up to 35% OFF Flex & Pro Evaluations",
-    "offer_type": "coupon",
+    "date_published": "2025-12-05",
+    "date_exp": "Ended",
     "discount_value": "35%",
+    "last_verified": "2025-12-05",
+    "offer_type": "coupon",
     "scope": [
       "Flex And Pro Evaluations."
     ],
-    "date_published": "2025-12-05",
-    "date_exp": "Ended",
-    "last_verified": "2025-12-05",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-sale-35-off-flex-pro/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10104,
     "title": "LucidFlex Launch: 40% Off + Free Reset Promo",
-    "offer_type": "coupon",
+    "date_published": "2025-11-29",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-11-29",
+    "offer_type": "coupon",
     "scope": [
       "All Evaluation Models."
     ],
-    "date_published": "2025-11-29",
-    "date_exp": "Ended",
-    "last_verified": "2025-11-29",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-lucidflex-launch-40-off-promo/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10105,
     "title": "Fall Sale: 40% Off Select Accounts + 30% Off Everything Else",
-    "offer_type": "coupon",
+    "date_published": "2025-11-17",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-11-17",
+    "offer_type": "coupon",
     "scope": [
       "All Evaluation Models (Specific Savings Depend On Account Size)."
     ],
-    "date_published": "2025-11-17",
-    "date_exp": "Ended",
-    "last_verified": "2025-11-17",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-fall-sale-40-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10106,
     "title": "Flash Sale: 50% OFF Account Resets",
-    "offer_type": "deal",
+    "date_published": "2025-11-13",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-11-13",
+    "offer_type": "deal",
     "scope": [
       "Account Resets."
     ],
-    "date_published": "2025-11-13",
-    "date_exp": "Ended",
-    "last_verified": "2025-11-13",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-flash-sale-50-off-resets/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10107,
     "title": "Launch Sale: 35% - 40% Off Direct & Test Accounts",
-    "offer_type": "coupon",
+    "date_published": "2025-10-13",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-10-13",
+    "offer_type": "coupon",
     "scope": [
       "Direct And Test Models."
     ],
-    "date_published": "2025-10-13",
-    "date_exp": "Ended",
-    "last_verified": "2025-10-13",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-launch-sale-40-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 10108,
     "title": "NinjaTrader Launch: 50% OFF Direct & Test Accounts",
-    "offer_type": "coupon",
+    "date_published": "2025-10-01",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-10-01",
+    "offer_type": "coupon",
     "scope": [
       "First 2 Accounts (Direct Or Test) Per Trader."
     ],
-    "date_published": "2025-10-01",
-    "date_exp": "Ended",
-    "last_verified": "2025-10-01",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-ninjatrader-launch-50-off/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11084,
     "title": "50% Discount on Evaluation Resets Ends August 28",
-    "offer_type": "coupon",
+    "date_published": "2025-08-28",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-08-28",
+    "offer_type": "coupon",
     "scope": [
       "Account Resets"
     ],
-    "date_published": "2025-08-28",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-28",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-off-resets-flash-sale/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11083,
     "title": "End of Summer Offer: 40% Off LucidTest and 35% Off Direct Accounts",
-    "offer_type": "coupon",
+    "date_published": "2025-08-25",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-08-25",
+    "offer_type": "coupon",
     "scope": [
       "Luciddirect, Lucidtest, Resets"
     ],
-    "date_published": "2025-08-25",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-25",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-end-of-summer-sale/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11082,
     "title": "Lucid Trading Offer: 40% Off LucidTest and 35% Off LucidDirect",
-    "offer_type": "coupon",
+    "date_published": "2025-08-17",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-08-17",
+    "offer_type": "coupon",
     "scope": [
       "Luciddirect, Lucidtest, Lucidtest Resets"
     ],
-    "date_published": "2025-08-17",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-17",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-promotion-40-percent-off-lucidtest/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11081,
     "title": "50% Off Evaluation and Direct Accounts: $50K Starts at $77",
-    "offer_type": "coupon",
+    "date_published": "2025-08-10",
+    "date_exp": "Ended",
     "discount_value": "50%",
+    "last_verified": "2025-08-10",
+    "offer_type": "coupon",
     "scope": [
       "Luciddirect ($50K, $150K), Lucidtest ($50K, $100K, $150K)"
     ],
-    "date_published": "2025-08-10",
-    "date_exp": "Ended",
-    "last_verified": "2025-08-10",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-percent-off-direct-and-test-accounts/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11080,
     "title": "Direct Funding Accounts Reduced to $293 and $419",
-    "offer_type": "coupon",
+    "date_published": "2025-06-10",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-06-10",
+    "offer_type": "coupon",
     "scope": [
       "Luciddirect $50K Account, Luciddirect $150K Account"
     ],
-    "date_published": "2025-06-10",
-    "date_exp": "Ended",
-    "last_verified": "2025-06-10",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-luciddirect-discount/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "prop_firm": "Lucid Trading",
     "prop_firm_slug": "lucid-trading",
     "standing_code": "PFD",
-    "code": "PFD"
-  },
-  {
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
     "deal_id": 11079,
     "title": "Save 40% on Lucid Trading Accounts with $50K Model for $93",
-    "offer_type": "coupon",
+    "date_published": "2025-05-29",
+    "date_exp": "Ended",
     "discount_value": "40%",
+    "last_verified": "2025-05-29",
+    "offer_type": "coupon",
     "scope": [
       "New Accounts, Resets, $50K, $100K, $150K"
     ],
-    "date_published": "2025-05-29",
-    "date_exp": "Ended",
-    "last_verified": "2025-05-29",
     "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-percent-off-june/",
-    "prop_firm": "Lucid Trading",
-    "prop_firm_slug": "lucid-trading",
-    "standing_code": "PFD",
-    "code": "PFD"
+    "code": "PFD",
+    "code_state": "standing"
   }
 ]
