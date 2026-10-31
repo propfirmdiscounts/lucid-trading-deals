@@ -1,44 +1,66 @@
 ---
 license: other
+pretty_name: Lucid Trading Discount Code
 configs:
 - config_name: lucid-trading-deals
   data_files:
   - split: data
     path: datasets/lucid-trading-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - lucid-trading
 ---
 
-# Lucid Trading - Discount Codes & Deal History
+# Lucid Trading Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-27, Lucid Trading deals run up to 30% OFF with code PFD, which works any time — the newest is **30% Off Every Account When DLL Is Switched On**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/lucid-trading/
+> Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
+>
+> — Lucid Trading, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/lucidtrading.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-27
+- Trustpilot: 4.5/5 (8202 reviews)
+- Activate: https://propfirmdiscount.com/go/lucidtrading
+- Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **30% off** on Lucid Trading challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Lucid Trading evaluation accounts.
+## Current Lucid Trading deal: 30% Off Every Account When DLL Is Switched On
+
+- Published: 2026-10-27
+- Offer ends: Limited time
+- Offer: 30% off
+- Scope: All Accounts, Lucidflex, Lucidpro, Luciddaily, Dll On, On-Demand Payouts
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/
+
+## Lucid Trading discount code FAQ
+
+**What is the Lucid Trading discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 30% off Lucid Trading challenges and accounts.
+
+**Does the Lucid Trading discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Lucid Trading deal?**
+
+**30% Off Every Account When DLL Is Switched On** — published 2026-10-27. Offer ends: Limited time. The offer is 30% off.
 
 ---
 
-## Latest Deal
-
-### Lucid Trading - 30% Off Every Account When DLL Is Switched On
-
-**Published:** 2026-10-27  
-**Offer ends:** Limited time  
-**Discount:** 30% off  
-**Scope:** All Accounts, Lucidflex, Lucidpro, Luciddaily, Dll On, On-Demand Payouts  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **23**
 
@@ -77,19 +99,20 @@ Total deals tracked: **23**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Lucid Trading** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Lucid Trading** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/lucid-trading/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/lucid-trading/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
