@@ -19,7 +19,7 @@ tags:
 
 # Lucid Trading Discount Code
 
-As of 2026-10-27, Lucid Trading deals run up to 30% OFF with code PFD, which works any time — the newest is **30% Off Every Account When DLL Is Switched On**.
+As of 2026-10-27, Lucid Trading deals run up to 30% OFF with code PFD, which works any time — the newest is 30% Off Every Account When DLL Is Switched On.
 
 > Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
 >
