@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13128,
+    "title": "30% Off All LucidDaily Plans - Lower Plan Prices",
+    "offer_type": "coupon",
+    "discount_value": "30%",
+    "scope": [
+      "Luciddaily Plans"
+    ],
+    "date_published": "2026-11-03",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-03",
+    "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/",
+    "prop_firm": "Lucid Trading",
+    "prop_firm_slug": "lucid-trading",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13042,
     "title": "30% Off Every Account When DLL Is Switched On",
     "offer_type": "coupon",
