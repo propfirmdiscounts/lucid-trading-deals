@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: lucidtrading
   FIRM_SLUG: lucid-trading
   DEALSTORE_ID: 216
   FIRM_NAME: Lucid Trading
