@@ -1,6 +1,6 @@
 # Lucid Trading - Discount Codes & Deal History
 
-As of 2026-11-03, Lucid Trading deals run up to 30% OFF with code PFD, which works any time — the newest is 30% Off All LucidDaily Plans - Lower Plan Prices.
+As of 2026-11-06, Lucid Trading deals run up to 30% OFF with code PFD, which works any time — the newest is 35% Off All Plans, 40% Bundled.
 
 > Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
 >
@@ -9,21 +9,21 @@ As of 2026-11-03, Lucid Trading deals run up to 30% OFF with code PFD, which wor
 - Code: PFD
 - Discount: Up to 30% off (what the code takes off the firm's newest deal; it applies to every Lucid Trading deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-03
+- Last deal published: 2026-11-06
 - Trustpilot: 4.5/5 (8716 reviews)
 - Activate: https://propfirmdiscount.com/go/lucidtrading
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Lucid Trading deal: 30% Off All LucidDaily Plans - Lower Plan Prices
+## Current Lucid Trading deal: 35% Off All Plans, 40% Bundled
 
-- Published: 2026-11-03
-- Offer ends: Limited time
-- Offer: 30% off
-- Scope: Luciddaily Plans
+- Published: 2026-11-06
+- Offer ends: 2026-11-06 17:00
+- Offer: 35% off
+- Scope: All Plans; Bundle Of 5 Accounts At 40% Off
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/
+- Deal page: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/
 
 ## Lucid Trading discount code FAQ
 
@@ -37,18 +37,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Lucid Trading deal?**
 
-**30% Off All LucidDaily Plans - Lower Plan Prices** — published 2026-11-03. Offer ends: Limited time. The offer is 30% off.
+**35% Off All Plans, 40% Bundled** — published 2026-11-06. Offer ends: 2026-11-06 17:00. The offer is 35% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **24**
+Total deals tracked: **25**
 
-### 2026 (11 deals)
+### 2026 (12 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-06 | 35% Off All Plans, 40% Bundled | 35% off | 2026-11-06 17:00 | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) |
 | 2026-11-03 | 30% Off All LucidDaily Plans - Lower Plan Prices | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/) |
 | 2026-10-27 | 30% Off Every Account When DLL Is Switched On | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/) |
 | 2026-10-19 | Any DLL-On Account at 40% Off - Weigh the Entry Cost Saving | 40% off | 2026-10-23 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) |

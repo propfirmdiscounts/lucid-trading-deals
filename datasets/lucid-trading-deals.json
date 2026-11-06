@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13168,
+    "title": "35% Off All Plans, 40% Bundled",
+    "offer_type": "deal",
+    "discount_value": "35%",
+    "scope": [
+      "All Plans; Bundle Of 5 Accounts At 40% Off"
+    ],
+    "date_published": "2026-11-06",
+    "date_exp": "2026-11-06 17:00",
+    "event": null,
+    "last_verified": "2026-11-06",
+    "post_url": "https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/",
+    "prop_firm": "Lucid Trading",
+    "prop_firm_slug": "lucid-trading",
+    "standing_code": "PFD",
+    "standing_discount": "30%",
+    "activation_link": "https://propfirmdiscount.com/go/lucidtrading",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/lucid-trading/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13128,
     "title": "30% Off All LucidDaily Plans - Lower Plan Prices",
     "offer_type": "coupon",
