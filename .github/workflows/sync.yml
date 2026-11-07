@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: lucid-trading-discount-codes
+  HF_NAMESPACE: lucidtrading
+  HF_REPO_NAME: lucid-trading-deals
   FIRM_SLUG: lucid-trading
   DEALSTORE_ID: 216
   FIRM_NAME: Lucid Trading
