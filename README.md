@@ -10,7 +10,7 @@ As of 2026-11-06, Lucid Trading deals run up to 30% OFF with code PFD, which wor
 - Discount: Up to 30% off (what the code takes off the firm's newest deal; it applies to every Lucid Trading deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
-- Trustpilot: 4.5/5 (8800 reviews)
+- Trustpilot: 4.5/5 (8893 reviews)
 - Activate: https://propfirmdiscount.com/go/lucidtrading
 - Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
