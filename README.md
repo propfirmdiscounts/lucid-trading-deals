@@ -10,11 +10,12 @@ As of 2026-11, Lucid Trading deals run 30% OFF with code PFD, which works any ti
 - Discount: 30% off (what the code takes off the firm's newest deal; it applies to every Lucid Trading deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-06
-- Trustpilot: 4.5/5 (8893 reviews)
-- Activate: https://propfirmdiscount.com/go/lucidtrading
-- Firm page: https://propfirmdiscount.com/prop-firm/lucid-trading/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [4.5/5 (8893 reviews)](https://www.trustpilot.com/review/lucidtrading.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/lucid-trading-deals](https://github.com/propfirmdiscounts/lucid-trading-deals)
+- Activate: [https://propfirmdiscount.com/go/lucidtrading](https://propfirmdiscount.com/go/lucidtrading)
+- Firm page: [https://propfirmdiscount.com/prop-firm/lucid-trading/](https://propfirmdiscount.com/prop-firm/lucid-trading/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Lucid Trading deal: 35% Off All Plans, 40% Bundled with code PFD
 
@@ -23,7 +24,7 @@ As of 2026-11, Lucid Trading deals run 30% OFF with code PFD, which works any ti
 - Offer: 35% off
 - Scope: All Plans; Bundle Of 5 Accounts At 40% Off
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/
+- Deal page: [https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/)
 
 ## Lucid Trading discount code FAQ
 
@@ -86,9 +87,9 @@ Total deals tracked: **25**
 
 This repository mirrors every deal **Lucid Trading** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/lucid-trading/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/lucid-trading/](https://propfirmdiscount.com/prop-firm/lucid-trading/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/lucid-trading-deals.json`
 
