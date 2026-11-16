@@ -1,6 +1,6 @@
-# Lucid Trading - Discount Codes & Deal History
+# Lucid Trading Discount Code & Deal History
 
-As of November 2026, the verified Lucid Trading discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "35% Off All Plans, 40% Bundled with code PFD".
+As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "35% Off All Plans, 40% Bundled with code PFD".
 
 > Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
 >
@@ -8,7 +8,7 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 30% OFF
 
 - Code: PFD
 - Discount: 30% off (what the code takes off the firm's newest deal; it applies to every Lucid Trading deal, whatever form that deal is stated in)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: [4.5/5 (8893 reviews)](https://www.trustpilot.com/review/lucidtrading.com)
 - GitHub repository: [Lucid Trading Deals Repository](https://github.com/propfirmdiscounts/lucid-trading-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 30% OFF
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Lucid Trading API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Lucid Trading deal: 35% Off All Plans, 40% Bundled with code PFD
+## Latest Lucid Trading deal: 35% Off All Plans, 40% Bundled with code PFD
 
 - Published: 2026-11-06
 - Offer ends: 2026-11-06 17:00 (ended)
@@ -26,7 +26,7 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 30% OFF
 - Code: PFD
 - Deal page: [Lucid Trading Deal Page](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/)
 
-## Lucid Trading discount code FAQ
+## Lucid Trading Discount Code & Deals FAQ
 
 **What is the Lucid Trading discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Lucid Trading Deal History
 
 Total deals tracked: **25**
 
@@ -83,7 +83,7 @@ Total deals tracked: **25**
 
 ---
 
-## About this repository
+## About the Lucid Trading Deals Dataset
 
 This repository mirrors every deal **Lucid Trading** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -91,7 +91,7 @@ This repository mirrors every deal **Lucid Trading** has published on PropFirmDi
 - Prop firm profile: [Lucid Trading Profile](https://propfirmdiscount.com/prop-firm/lucid-trading/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/lucid-trading-deals.json`
+## Lucid Trading Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -123,13 +123,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
