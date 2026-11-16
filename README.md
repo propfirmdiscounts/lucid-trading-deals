@@ -1,6 +1,6 @@
 # Lucid Trading - Discount Codes & Deal History
 
-As of 2026-11, Lucid Trading deals run 30% OFF with code PFD, which works any time — the newest is 35% Off All Plans, 40% Bundled.
+As of November 2026, Lucid Trading deals offer 30% OFF with code PFD, which can be applied on the checkout page anytime.
 
 > Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
 >
