@@ -1,4 +1,4 @@
-# Lucid Trading Discount Code & Deal History
+# Lucid Trading Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "35% Off All Plans, 40% Bundled with code PFD".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
 - Trustpilot: [4.5/5 (8914 reviews)](https://www.trustpilot.com/review/lucidtrading.com)
-- GitHub repository: [Lucid Trading Deals Repository](https://github.com/propfirmdiscounts/lucid-trading-deals)
+- GitHub repository: [Lucid Trading Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/lucid-trading-deals)
 - Activate: [Activate Lucid Trading Discount Code](https://propfirmdiscount.com/go/lucidtrading)
 - Firm page: [Lucid Trading Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/lucid-trading/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF
 - Code: PFD
 - Deal page: [Lucid Trading Deal Page](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/)
 
-## Lucid Trading Discount Code & Deals FAQ
+## Lucid Trading Discount Code & Deals History FAQ
 
 **What is the Lucid Trading discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Lucid Trading Deal History
+## Lucid Trading Deals History
 
 Total deals tracked: **25**
 
@@ -83,7 +83,7 @@ Total deals tracked: **25**
 
 ---
 
-## About the Lucid Trading Deals Dataset
+## About the Lucid Trading Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Lucid Trading** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -91,7 +91,7 @@ This repository mirrors every deal **Lucid Trading** has published on PropFirmDi
 - Prop firm profile: [Lucid Trading Profile](https://propfirmdiscount.com/prop-firm/lucid-trading/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Lucid Trading Deal Dataset: Field Definitions
+## Lucid Trading Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

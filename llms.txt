@@ -1,4 +1,4 @@
-# Lucid Trading Discount Codes
+# Lucid Trading Discount Code & Deals History
 
 This dataset tracks historical deal observations for Lucid Trading from PropFirmDiscount.com.
 
