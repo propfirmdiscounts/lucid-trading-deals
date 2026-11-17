@@ -7,10 +7,10 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF
 > — Lucid Trading, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/lucidtrading.com)
 
 - Code: PFD
-- Discount: 30% off (what the code takes off the firm's newest deal; it applies to every Lucid Trading deal, whatever form that deal is stated in)
+- Discount: 35% off (what the code takes off the firm's newest deal; it applies to every Lucid Trading deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-06
-- Trustpilot: [4.5/5 (8893 reviews)](https://www.trustpilot.com/review/lucidtrading.com)
+- Trustpilot: [4.5/5 (8914 reviews)](https://www.trustpilot.com/review/lucidtrading.com)
 - GitHub repository: [Lucid Trading Deals Repository](https://github.com/propfirmdiscounts/lucid-trading-deals)
 - Activate: [Activate Lucid Trading Discount Code](https://propfirmdiscount.com/go/lucidtrading)
 - Firm page: [Lucid Trading Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/lucid-trading/)
@@ -30,7 +30,7 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF
 
 **What is the Lucid Trading discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 30% off Lucid Trading challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 35% off Lucid Trading challenges and accounts.
 
 **Does the Lucid Trading discount code expire?**
 
