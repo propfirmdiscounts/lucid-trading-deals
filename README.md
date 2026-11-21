@@ -1,6 +1,6 @@
 # Lucid Trading Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "35% Off All Plans, 40% Bundled with code PFD".
+As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "35% Off All Plans, 40% Bundled (code PFD)".
 
 > Lucid Trading is a funded firm that helps futures traders practice their strategies, improve risk management, and build capital as they prepare to trade in live markets. The team at Lucid Trading feels that there is an opportunity to merge elements from the new funded firms and old-school proprietary trading desks. Funded firms are an excellent starting point for aspiring traders. However, once they have proven they are ready for live markets, they need to be supported more in the way a traditional prop desk. Lucid Trading’s goal is to provide a clear path forward through all these phases.
 >
@@ -17,7 +17,7 @@ As of November 2026, the verified Lucid Trading discount code is PFD — 35% OFF
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Lucid Trading API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Lucid Trading deal: 35% Off All Plans, 40% Bundled with code PFD
+## Latest Lucid Trading deal: 35% Off All Plans, 40% Bundled (code PFD)
 
 - Published: 2026-11-06
 - Offer ends: 2026-11-06 17:00 (ended)
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Lucid Trading deal?**
 
-**35% Off All Plans, 40% Bundled with code PFD** — published 2026-11-06. Offer ends: 2026-11-06 17:00 (ended). The offer is 35% off.
+**35% Off All Plans, 40% Bundled (code PFD)** — published 2026-11-06. Offer ends: 2026-11-06 17:00 (ended). The offer is 35% off.
 
 ---
 
@@ -50,36 +50,36 @@ Total deals tracked: **25**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-06 | Lucid Trading: 35% Off All Plans, 40% Bundled with code PFD | 35% off | 2026-11-06 17:00 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) |
-| 2026-11-03 | Lucid Trading: 30% Off All LucidDaily Plans - Lower Plan Prices with code PFD | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/) |
-| 2026-10-27 | Lucid Trading: 30% Off Every Account When DLL Is Switched On with code PFD | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/) |
-| 2026-10-19 | Lucid Trading: Any DLL-On Account at 40% Off - Weigh the Entry Cost Saving with code PFD | 40% off | 2026-10-23 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) |
-| 2026-05-18 | Lucid Trading: 50% Off Challenge Pricing For All Evaluation Models with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/50-percent-off-all-accounts/) |
-| 2026-03-27 | Lucid Trading: 40% Off All Evaluation Purchase Costs with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-any-evaluation/) |
-| 2026-03-17 | Lucid Trading: Buy 3 Pro Accounts Get 1 Free Pro Account Reset with code PFD | Buy 3 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-buy-3-pro-accounts-free-reset/) |
-| 2026-03-03 | Lucid Trading: 40% Reduction on All Challenge Pricing with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-evaluations/) |
-| 2026-02-19 | Lucid Trading: 50% Off Evaluation Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-off-evaluations/) |
-| 2026-01-25 | Lucid Trading: 40% Discount on Evaluation Account Entry Costs with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-evaluation-promo/) |
-| 2026-01-18 | Lucid Trading: LucidBlack Launch: 40% OFF Challenge Pricing from $78 with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-lucidblack-launch-40-percent-off/) |
-| 2026-01-05 | Lucid Trading: Deal: 35% Off 25K-50K Accounts and 30% Off Site-Wide with code PFD | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-deal-35-off-25k-50k-accounts-and-30-off-site-wide/) |
+| 2026-11-06 | Lucid Trading: 35% Off All Plans, 40% Bundled (code PFD) | 35% off | 2026-11-06 17:00 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-35-off-all-plans-concrete-day/) |
+| 2026-11-03 | Lucid Trading: 30% Off All LucidDaily Plans - Lower Plan Prices (code PFD) | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-luciddaily-plans/) |
+| 2026-10-27 | Lucid Trading: 30% Off Every Account When DLL Is Switched On (code PFD) | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-30-off-all-accounts-dll-on/) |
+| 2026-10-19 | Lucid Trading: Any DLL-On Account at 40% Off - Weigh the Entry Cost Saving (code PFD) | 40% off | 2026-10-23 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-dll-on-demand-payouts/) |
+| 2026-05-18 | Lucid Trading: 50% Off Challenge Pricing For All Evaluation Models (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/50-percent-off-all-accounts/) |
+| 2026-03-27 | Lucid Trading: 40% Off All Evaluation Purchase Costs (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-any-evaluation/) |
+| 2026-03-17 | Lucid Trading: Buy 3 Pro Accounts Get 1 Free Pro Account Reset (code PFD) | Buy 3 Get 1 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-buy-3-pro-accounts-free-reset/) |
+| 2026-03-03 | Lucid Trading: 40% Reduction on All Challenge Pricing (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-evaluations/) |
+| 2026-02-19 | Lucid Trading: 50% Off Evaluation Accounts (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-off-evaluations/) |
+| 2026-01-25 | Lucid Trading: 40% Discount on Evaluation Account Entry Costs (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-off-evaluation-promo/) |
+| 2026-01-18 | Lucid Trading: LucidBlack Launch: 40% OFF Challenge Pricing from $78 (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-lucidblack-launch-40-percent-off/) |
+| 2026-01-05 | Lucid Trading: Deal: 35% Off 25K-50K Accounts and 30% Off Site-Wide (code PFD) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-deal-35-off-25k-50k-accounts-and-30-off-site-wide/) |
 
 ### 2025 (13 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-11 | Lucid Trading: 20k Member Celebration: 40% OFF + Giveaway with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-20k-member-celebration-40-off/) |
-| 2025-12-05 | Lucid Trading: Sale: Up to 35% OFF Flex & Pro Evaluations with code PFD | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-sale-35-off-flex-pro/) |
-| 2025-11-29 | Lucid Trading: LucidFlex Launch: 40% Off + Free Reset Promo with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-lucidflex-launch-40-off-promo/) |
-| 2025-11-17 | Lucid Trading: Fall Sale: 40% Off Select Accounts + 30% Off Everything Else with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-fall-sale-40-off/) |
-| 2025-11-13 | Lucid Trading: Flash Sale: 50% OFF Account Resets with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-flash-sale-50-off-resets/) |
-| 2025-10-13 | Lucid Trading: Launch Sale: 35% - 40% Off Direct & Test Accounts with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-launch-sale-40-off/) |
-| 2025-10-01 | Lucid Trading: NinjaTrader Launch: 50% OFF Direct & Test Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-ninjatrader-launch-50-off/) |
-| 2025-08-28 | Lucid Trading: 50% Discount on Evaluation Resets Ends August 28 with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-off-resets-flash-sale/) |
-| 2025-08-25 | Lucid Trading: End of Summer Offer: 40% Off LucidTest and 35% Off Direct Accounts with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-end-of-summer-sale/) |
-| 2025-08-17 | Lucid Trading: Lucid Trading Offer: 40% Off LucidTest and 35% Off LucidDirect with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-promotion-40-percent-off-lucidtest/) |
-| 2025-08-10 | Lucid Trading: 50% Off Evaluation and Direct Accounts: $50K Starts at $77 with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-percent-off-direct-and-test-accounts/) |
-| 2025-06-10 | Lucid Trading: Direct Funding Accounts Reduced to $293 and $419 with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-luciddirect-discount/) |
-| 2025-05-29 | Lucid Trading: Save 40% on Lucid Trading Accounts with $50K Model for $93 with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-percent-off-june/) |
+| 2025-12-11 | Lucid Trading: 20k Member Celebration: 40% OFF + Giveaway (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-20k-member-celebration-40-off/) |
+| 2025-12-05 | Lucid Trading: Sale: Up to 35% OFF Flex & Pro Evaluations (code PFD) | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-sale-35-off-flex-pro/) |
+| 2025-11-29 | Lucid Trading: LucidFlex Launch: 40% Off + Free Reset Promo (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-lucidflex-launch-40-off-promo/) |
+| 2025-11-17 | Lucid Trading: Fall Sale: 40% Off Select Accounts + 30% Off Everything Else (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-fall-sale-40-off/) |
+| 2025-11-13 | Lucid Trading: Flash Sale: 50% OFF Account Resets (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-flash-sale-50-off-resets/) |
+| 2025-10-13 | Lucid Trading: Launch Sale: 35% - 40% Off Direct & Test Accounts (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-launch-sale-40-off/) |
+| 2025-10-01 | Lucid Trading: NinjaTrader Launch: 50% OFF Direct & Test Accounts (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-ninjatrader-launch-50-off/) |
+| 2025-08-28 | Lucid Trading: 50% Discount on Evaluation Resets Ends August 28 (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-off-resets-flash-sale/) |
+| 2025-08-25 | Lucid Trading: End of Summer Offer: 40% Off LucidTest and 35% Off Direct Accounts (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-end-of-summer-sale/) |
+| 2025-08-17 | Lucid Trading: Lucid Trading Offer: 40% Off LucidTest and 35% Off LucidDirect (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-promotion-40-percent-off-lucidtest/) |
+| 2025-08-10 | Lucid Trading: 50% Off Evaluation and Direct Accounts: $50K Starts at $77 (code PFD) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-50-percent-off-direct-and-test-accounts/) |
+| 2025-06-10 | Lucid Trading: Direct Funding Accounts Reduced to $293 and $419 (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-luciddirect-discount/) |
+| 2025-05-29 | Lucid Trading: Save 40% on Lucid Trading Accounts with $50K Model for $93 (code PFD) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/lucid-trading/lucid-trading-40-percent-off-june/) |
 
 ---
 
